@@ -11,6 +11,8 @@ public class Ornek1 {
         System.out.println("yenı 1");
 
         System.out.println("yeni 2");
+
+        System.out.println( "merhaba 4");
     }
 
 }
